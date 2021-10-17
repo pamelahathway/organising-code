@@ -9,18 +9,18 @@ See advantages of using brewing package as an editable installation.
 #### Tasks
 
 1. Check which packages are installed currently
-   `pip freeze`
+   `> pip freeze`
 
 
 
 2. install the brewing package as an editable installation
-   `pip install -e <path-to-repository>` or 
-   `pip install -e .` 
+   `> pip install -e <path-to-repository>` or 
+   `> pip install -e .` 
 
 
 
 3. check which packages are installed now
-   `pip freeze`
+   `> pip freeze`
    What changed?
 
 
