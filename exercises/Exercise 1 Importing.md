@@ -10,6 +10,8 @@ Get comfortable with different ways of importing objects from a package.
 
 0. [if not done already] clone the repository
 
+   https://github.com/pamelahathway/organising-code
+
 
 
 1. Import the module `brew_potions.py`  in the `example_usage_outside_package.py` file: 
