@@ -8,7 +8,7 @@ Create a virtual environment + (editable) install your package + see that your d
 
 #### Tasks
 
-We will use `venv` as our environment manager - it is a basic one, but all the principles will apply to all other package mangaers as well.
+We will use `venv` as our environment manager - it is a basic one, but all the principles will apply to all other package managers as well.
 
 1. Check which Python you are currently using, and which packages are installed. Uninstall the brewing package and check that it is not there anymore.
 2. Navigate to the folder which contains the brewing package

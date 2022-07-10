@@ -1,3 +1,5 @@
+# Brewing Package
+
 The package contains the materials for a lecture on
 • organising
 • documenting 
